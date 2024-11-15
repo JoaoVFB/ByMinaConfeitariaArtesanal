@@ -47,7 +47,7 @@ criado. </p>
     <il>Mensagem de boas-vindas ou de confirmação de cadastro após ser enviado<br></il>
    
   </ul>
-  <li>Página de login</li>
+  <li>Página de login:</li>
   <ul>
     <il>E-mail<br></il>
     <il>Senha<br></il>
@@ -55,13 +55,13 @@ criado. </p>
     <il>Link para redirecionamento paa página de cadastro ("Não possui conta? Cadastre-se aqui!")<br></il>
    
   </ul>
-   <li>Página "Sobre Nós"</li>
+   <li>Página "Sobre Nós":</li>
   <ul>
     <il>Informações de contato com endereço, telefone, e-mail e mapa de localização.<br></il>
     <il>Redes socias com ícones clicáveis.<br></il>
 
   </ul>
-  <li>Aspectos de Design(CSS)</li>
+  <li>Aspectos de Design(CSS):</li>
   <ul>
     <il>Paleta de cores: Utilização de cores harmônicas, como tons pastéis, para manter uma identidade visual delicada e acolhedora.<br></il>
     <il>Tipografia: Fontes amigáveis, legíveis e que remetam ao tema artesanal.<br></il>
