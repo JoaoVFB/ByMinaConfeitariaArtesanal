@@ -1,4 +1,4 @@
-# ByMinaConfeitariaArtesanal
+# Projeto Web - ByMinaConfeitariaArtesanal
 
 <h2>Tópicos</h2>
 <ul>
@@ -21,7 +21,7 @@
 </table></markdown-accessiblity-table>
 
 <h2>Instituição Comercial atendida</h2>
-![Logo](https://github.com/user-attachments/assets/8df7c822-f91a-4be0-a729-1f7722af8597)
+<a href=""><img src="https://i.ibb.co/DQzCDV3/Logo.png" alt="Logo" border="0"></a>
 
 <Strong>ByMina Confeitaria Artesanal</Strong>
 
