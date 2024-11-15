@@ -30,7 +30,7 @@ criado. </p>
 <ol>
   <li>Pagina inicial:</li>
   <ul>
-    <il>Cabeçalho:inclui o logo da ByMina </il>
+    <il>Cabeçalho:inclui o logo da ByMina <br> </il>
     <il>Banner com uma imagem de destaque dos doces artesanias, slogan ou mensagem principal que represente a confeitaria</il>
     <il>Galeria de produtos: Destaque dos principais produtos com imagens títulos e breves descrições</il>
     <il>Rodapé:Informações de contato, links de redes socias e horario de funcionamento</il>
