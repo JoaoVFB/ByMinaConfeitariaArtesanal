@@ -11,7 +11,16 @@
 </ul>
 
 <h2>Integrantes da Equipe </h2>
+<markdown-accessiblity-table data-catalyst=""><table tabindex="0">
+<thead>
+  <tr>
+    <th align="center"><a href="https://github.com/camilafernanda"><img     src="https://avatars.githubusercontent.com/u/37356058?v=4" width="115" style="max-width: 100%;"><br><sub>Camila Fernanda Alves</sub></a></th>
+    <th align="center"><a href="https://github.com/crovim"><img src="https://avatars.githubusercontent.com/u/38091359?v=4" width="115" style="max-width: 100%;"><br><sub>Clóvis Ribeiro Júnior</sub></a></th>
+    </tr>
+</thead>
+</table></markdown-accessiblity-table>
 <ul>
+  
   <li>Danilo Augusto Martins Frazon</li>
   <li>João Vitor Furquim de Brito</li>
   <li>Pedro Henrique Silva Melo</li>
