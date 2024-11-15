@@ -15,7 +15,7 @@
   <tr>
     <th align="center"><a href="https://github.com/JoaoVFB"><img     src="https://i.ibb.co/rHmQwYP/IMG-20240525-122603958-HDR.jpg" width="110" style="max-width: 100%;"><br><sub>João Vitor Furquim</sub></a></th>
     <th align="center"><a href=""><img     src="https://i.ibb.co/Pw4tk08/foto-Pedro.jpg" width="100"  style="max-width: 100%;"><br><sub>Pedro Henrique Silva Melo</sub></a></th>
-    <th align="center"><a href="https://github.com/crovim"><img src="https://avatars.githubusercontent.com/u/38091359?v=4" width="115" style="max-width: 100%;"><br><sub>Clóvis Ribeiro Júnior</sub></a></th>
+    <th align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/38091359?v=4" width="110" style="max-width: 100%;"><br><sub>Danilo Augusto</sub></a></th>
     </tr>
 </thead>
 </table></markdown-accessiblity-table>
