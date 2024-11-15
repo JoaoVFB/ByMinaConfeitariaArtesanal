@@ -21,6 +21,8 @@
 </table></markdown-accessiblity-table>
 
 <h2>Instituição Comercial atendida</h2>
+![Logo](https://github.com/user-attachments/assets/8df7c822-f91a-4be0-a729-1f7722af8597)
+
 <Strong>ByMina Confeitaria Artesanal</Strong>
 
 <h2 id=>Descrição do Projeto</h2>
