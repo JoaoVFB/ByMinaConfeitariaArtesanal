@@ -13,7 +13,7 @@
 <markdown-accessiblity-table data-catalyst=""><table tabindex="0">
 <thead>
   <tr>
-    <th align="center"><a href="https://github.com/JoaoVFB"><img     src="https://i.ibb.co/kSRBdmv/foto.png" width="115" style="max-width: 100%;"><br><sub>João Vitor Furquim</sub></a></th>
+    <th align="center"><a href="https://github.com/JoaoVFB"><img     src="https://i.ibb.co/rHmQwYP/IMG-20240525-122603958-HDR.jpg" width="115" style="max-width: 100%;"><br><sub>João Vitor Furquim</sub></a></th>
     <th align="center"><a href="https://github.com/crovim"><img src="https://avatars.githubusercontent.com/u/38091359?v=4" width="115" style="max-width: 100%;"><br><sub>Clóvis Ribeiro Júnior</sub></a></th>
     </tr>
 </thead>
