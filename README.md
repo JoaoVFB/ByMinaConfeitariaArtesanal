@@ -25,7 +25,7 @@
 
 <Strong>ByMina Confeitaria Artesanal</Strong>
 
-<h2 id=>Descrição do Projeto</h2>
+<h2 id= "descrica">Descrição do Projeto</h2>
 <p>     O projeto para a "ByMina" busca criar um site visualmente atrativo, moderno e funcional que transmita a identidade de uma
 confeitaria atesanal  com foco em qualidade e exclusividade. O site será responsivo, proporcionando uma experiência de
 navegação agradável tanto em dispositivos  móveis quanto em desktops. Esse projeto busca criar uma presença digital forte
