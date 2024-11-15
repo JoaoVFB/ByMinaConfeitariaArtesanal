@@ -47,7 +47,7 @@ criado. </p>
     <il>Mensagem de boas-vindas ou de confirmação de cadastro após ser enviado<br></il>
    
   </ul>
-  <li>Página de login:</li>
+  <li><strong>Página de login:</strong></li>
   <ul>
     <il>E-mail<br></il>
     <il>Senha<br></il>
