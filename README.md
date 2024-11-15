@@ -5,9 +5,9 @@
 <ul>
   <li><a href="https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal/blob/main/README.md#integrantes-da-equipe-">Integrantes da equipa
     </li>
-  <li>Institução atendida</li>
-  <li>Descrição do projeto</li>
-  <li>Estrutura do projeto</li>
+  <li><a href="https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal/blob/main/README.md#institui%C3%A7%C3%A3o-comercial-atendida">Institução atendida</li>
+  <li><a href="https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal/blob/main/README.md#descri%C3%A7%C3%A3o-do-projeto">Descrição do projeto</li>
+  <li><a href="https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal/blob/main/README.md#estrutura-do-site">Estrutura do projeto</li>
 </ul>
 
 <h2>Integrantes da Equipe </h2>
