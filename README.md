@@ -1,41 +1,4 @@
 # ByMinaConfeitariaArtesanal
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Galeria de Pessoas</title>
-  <style>
-    .main-container {
-      display: flex; /* Organiza os itens em linha */
-      justify-content: center; /* Centraliza os itens horizontalmente */
-      gap: 20px; /* Espaço entre os itens */
-      margin: 20px;
-    }
-
-    .person-container {
-      text-align: center; /* Centraliza o conteúdo dentro de cada container */
-      width: 150px; /* Define a largura de cada container */
-      border: 2px solid #ccc; /* Adiciona uma borda */
-      border-radius: 10px; /* Arredonda os cantos */
-      padding: 10px; /* Espaçamento interno */
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adiciona sombra */
-    }
-
-    .person-container img {
-      width: 100%; /* Faz a imagem ocupar toda a largura do container */
-      border-radius: 10px; /* Arredonda os cantos da imagem */
-    }
-
-    .person-container p {
-      margin: 10px 0 0; /* Espaçamento acima do texto */
-      font-size: 14px; /* Tamanho da fonte */
-      font-weight: bold; /* Negrito */
-      color: #333; /* Cor do texto */
-    }
-  </style>
-</head>
-<body>
 
 <h2>Tópicos</h2>
 <ul>
@@ -50,7 +13,7 @@
 <markdown-accessiblity-table data-catalyst=""><table tabindex="0">
 <thead>
   <tr>
-    <th align="center"><a href="https://github.com/camilafernanda"><img     src="[https://avatars.githubusercontent.com/u/38091359?v=4](https://github.com/account)" width="115" style="max-width: 100%;"><br><sub>Camila Fernanda Alves</sub></a></th>
+    <th align="center"><a href="https://github.com/JoaoVFB"><img     src="https://i.ibb.co/kSRBdmv/foto.png" width="115" style="max-width: 100%;"><br><sub>Camila Fernanda Alves</sub></a></th>
     <th align="center"><a href="https://github.com/crovim"><img src="https://avatars.githubusercontent.com/u/38091359?v=4" width="115" style="max-width: 100%;"><br><sub>Clóvis Ribeiro Júnior</sub></a></th>
     </tr>
 </thead>
@@ -115,8 +78,6 @@ criado. </p>
    
   </ul>
 </ol>
-</body>
-</html>
 
 
 
