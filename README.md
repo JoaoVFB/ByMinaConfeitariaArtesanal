@@ -27,9 +27,9 @@ para a confeitaria artesanal "ByMina", conectando clientes ao mundo do doce arte
 criado. </p>
 
 <h2>Estrutura do site</h2>
-<ol>
-  <li><strong>Pagina inicial:</strong></li>
-  <ul type=disc>
+<ol >
+  <li type= Strong><strong>Pagina inicial:</strong></li>
+  <ul>
     <li>Cabeçalho:inclui o logo da ByMina <br> </li>
     <li>Banner com uma imagem de destaque dos doces artesanias, slogan ou mensagem principal que represente a confeitaria <br> </li>
     <li>Galeria de produtos: Destaque dos principais produtos com imagens títulos e breves descrições<br></li>
