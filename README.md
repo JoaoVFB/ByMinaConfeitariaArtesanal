@@ -28,7 +28,7 @@ criado. </p>
 
 <h2>Estrutura do site</h2>
 <ol>
-  <li>Pagina inicial:</li>
+  <li><strong>Pagina inicial:</strong></li>
   <ul>
     <il>Cabeçalho:inclui o logo da ByMina <br> </il>
     <il>Banner com uma imagem de destaque dos doces artesanias, slogan ou mensagem principal que represente a confeitaria <br> </il>
@@ -38,7 +38,7 @@ criado. </p>
     <il>Botão para página de "Login"<br></il>
     <il>Botão página "Sobre nós"<br></il>
   </ul>
-  <li>Pagina cadastro:</li>
+  <li><strong>Pagina cadastro:</strong></li>
   <ul>
     <il>Formuláro de Registro com campos para:<br></il>
     <il>Nome completo<br></il>
@@ -55,13 +55,13 @@ criado. </p>
     <il>Link para redirecionamento paa página de cadastro ("Não possui conta? Cadastre-se aqui!")<br></il>
    
   </ul>
-   <li>Página "Sobre Nós":</li>
+   <li><strong>Página "Sobre Nós":</strong></li>
   <ul>
     <il>Informações de contato com endereço, telefone, e-mail e mapa de localização.<br></il>
     <il>Redes socias com ícones clicáveis.<br></il>
 
   </ul>
-  <li>Aspectos de Design(CSS):</li>
+  <li><strong>Aspectos de Design(CSS):</strong></li>
   <ul>
     <il>Paleta de cores: Utilização de cores harmônicas, como tons pastéis, para manter uma identidade visual delicada e acolhedora.<br></il>
     <il>Tipografia: Fontes amigáveis, legíveis e que remetam ao tema artesanal.<br></il>
