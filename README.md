@@ -28,7 +28,7 @@ criado. </p>
 
 <h2>Estrutura do site</h2>
 <ol >
-  <li type= Strong><strong>Pagina inicial:</strong></li>
+  <li><strong>Pagina inicial:</strong></li>
   <ul>
     <li>Cabeçalho:inclui o logo da ByMina <br> </li>
     <li>Banner com uma imagem de destaque dos doces artesanias, slogan ou mensagem principal que represente a confeitaria <br> </li>
