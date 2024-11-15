@@ -3,11 +3,11 @@
 
 <h2>Tópicos</h2>
 <ul>
-  <li><a href="https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal/blob/main/README.md#integrantes-da-equipe-">Integrantes da equipa
+  <li><a href="https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal/blob/main/README.md#integrantes-da-equipe-">Integrantes da equipa</a>
     </li>
-  <li><a href="https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal/blob/main/README.md#institui%C3%A7%C3%A3o-comercial-atendida">Institução atendida</li>
-  <li><a href="https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal/blob/main/README.md#descri%C3%A7%C3%A3o-do-projeto">Descrição do projeto</li>
-  <li><a href="https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal/blob/main/README.md#estrutura-do-site">Estrutura do projeto</li>
+  <li><a href="https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal/blob/main/README.md#institui%C3%A7%C3%A3o-comercial-atendida">Institução atendida</a>a></li>
+  <li><a href="https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal/blob/main/README.md#descri%C3%A7%C3%A3o-do-projeto">Descrição do projeto</a></li>
+  <li><a href="https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal/blob/main/README.md#estrutura-do-site">Estrutura do projeto</a></li>
 </ul>
 
 <h2>Integrantes da Equipe </h2>
