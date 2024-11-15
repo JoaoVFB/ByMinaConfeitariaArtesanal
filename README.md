@@ -3,7 +3,7 @@
 
 <h2>Tópicos</h2>
 <ul>
-  <li><a href="[md#integrantes-da-equipe-](https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal/blob/main/README.md#integrantes-da-equipe-)">Integrantes da equipa
+  <li><a href="https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal/blob/main/README.md#integrantes-da-equipe-">Integrantes da equipa
     </li>
   <li>Institução atendida</li>
   <li>Descrição do projeto</li>
