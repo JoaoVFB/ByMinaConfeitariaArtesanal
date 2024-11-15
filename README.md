@@ -19,12 +19,6 @@
     </tr>
 </thead>
 </table></markdown-accessiblity-table>
-<ul>
-  
-  <li>Danilo Augusto Martins Frazon</li>
-  <li>João Vitor Furquim de Brito</li>
-  <li>Pedro Henrique Silva Melo</li>
-</ul>
 
 <h2>Instituição Comercial atendida</h2>
 <Strong>ByMina Confeitaria Artesanal</Strong>
