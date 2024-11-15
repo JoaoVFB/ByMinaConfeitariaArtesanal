@@ -5,7 +5,7 @@
   <li><a href="https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal/blob/main/README.md#integrantes-da-equipe-">Integrantes da equipa</a>
     </li>
   <li><a href="https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal/blob/main/README.md#institui%C3%A7%C3%A3o-comercial-atendida">Institução atendida</a></li>
-  <li><a href="https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal/blob/main/README.md#descri%C3%A7%C3%A3o-do-projeto">Descrição do projeto</a></li>
+  <li><a href="descricao">Descrição do projeto</a></li>
   <li><a href="https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal/blob/main/README.md#estrutura-do-site">Estrutura do projeto</a></li>
 </ul>
 
@@ -25,7 +25,7 @@
 
 <Strong>ByMina Confeitaria Artesanal</Strong>
 
-<h2 id= "descrica">Descrição do Projeto</h2>
+<h2 href= "descricao">Descrição do Projeto</h2>
 <p>     O projeto para a "ByMina" busca criar um site visualmente atrativo, moderno e funcional que transmita a identidade de uma
 confeitaria atesanal  com foco em qualidade e exclusividade. O site será responsivo, proporcionando uma experiência de
 navegação agradável tanto em dispositivos  móveis quanto em desktops. Esse projeto busca criar uma presença digital forte
