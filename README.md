@@ -14,7 +14,8 @@
 <markdown-accessiblity-table data-catalyst=""><table tabindex="0">
 <thead>
   <tr>
-    <th align="center"><a href="https://github.com/camilafernanda"><img     src="https://avatars.githubusercontent.com/u/37356058?v=4" width="115" style="max-width: 100%;"><br><sub>Camila Fernanda Alves</sub></a></th>
+    <th align="center"><a href="https://github.com/camilafernanda"><img     src="https://github.com/user-attachments/assets/4bed488f-0703-4a5d-a554-5319dba8f94d
+" width="115" style="max-width: 100%;"><br><sub>Camila Fernanda Alves</sub></a></th>
     <th align="center"><a href="https://github.com/crovim"><img src="https://avatars.githubusercontent.com/u/38091359?v=4" width="115" style="max-width: 100%;"><br><sub>Clóvis Ribeiro Júnior</sub></a></th>
     </tr>
 </thead>
