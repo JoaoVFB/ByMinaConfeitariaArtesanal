@@ -30,42 +30,42 @@ criado. </p>
 <ol>
   <li><strong>Pagina inicial:</strong></li>
   <ul type=disc>
-    <il>Cabeçalho:inclui o logo da ByMina <br> </il>
-    <il>Banner com uma imagem de destaque dos doces artesanias, slogan ou mensagem principal que represente a confeitaria <br> </il>
-    <il>Galeria de produtos: Destaque dos principais produtos com imagens títulos e breves descrições<br></il>
-    <il>Rodapé:Informações de contato, links de redes socias e horario de funcionamento<br></il>
-    <il>Botão para página de "Cadastro"<br></il>
-    <il>Botão para página de "Login"<br></il>
-    <il>Botão página "Sobre nós"<br></il>
+    <li>Cabeçalho:inclui o logo da ByMina <br> </li>
+    <li>Banner com uma imagem de destaque dos doces artesanias, slogan ou mensagem principal que represente a confeitaria <br> </li>
+    <li>Galeria de produtos: Destaque dos principais produtos com imagens títulos e breves descrições<br></li>
+    <li>Rodapé:Informações de contato, links de redes socias e horario de funcionamento<br></li>
+    <li>Botão para página de "Cadastro"<br></li>
+    <li>Botão para página de "Login"<br></li>
+    <li>Botão página "Sobre nós"<br></li>
   </ul>
   <li><strong>Pagina cadastro:</strong></li>
   <ul>
-    <il>Formuláro de Registro com campos para:<br></il>
-    <il>Nome completo<br></il>
-    <il>E-mail<br></il>
-    <il>Senha(com confirmação de senha)<br></il>
-    <il>Mensagem de boas-vindas ou de confirmação de cadastro após ser enviado<br></il>
+    <li>Formuláro de Registro com campos para:<br></li>
+    <li>Nome completo<br></li>
+    <li>E-mail<br></li>
+    <li>Senha(com confirmação de senha)<br></li>
+    <li>Mensagem de boas-vindas ou de confirmação de cadastro após ser enviado<br></li>
    
   </ul>
   <li><strong>Página de login:</strong></li>
   <ul>
-    <il>E-mail<br></il>
-    <il>Senha<br></il>
-    <il>Botão "Entrar"<br></il>
-    <il>Link para redirecionamento paa página de cadastro ("Não possui conta? Cadastre-se aqui!")<br></il>
+    <li>E-mail<br></li>
+    <li>Senha<br></li>
+    <li>Botão "Entrar"<br></li>
+    <li>Link para redirecionamento paa página de cadastro ("Não possui conta? Cadastre-se aqui!")<br></li>
    
   </ul>
    <li><strong>Página "Sobre Nós":</strong></li>
   <ul>
-    <il>Informações de contato com endereço, telefone, e-mail e mapa de localização.<br></il>
-    <il>Redes socias com ícones clicáveis.<br></il>
+    <li>Informações de contato com endereço, telefone, e-mail e mapa de localização.<br></li>
+    <li>Redes socias com ícones clicáveis.<br></li>
 
   </ul>
   <li><strong>Aspectos de Design(CSS):</strong></li>
   <ul>
-    <il>Paleta de cores: Utilização de cores harmônicas, como tons pastéis, para manter uma identidade visual delicada e acolhedora.<br></il>
-    <il>Tipografia: Fontes amigáveis, legíveis e que remetam ao tema artesanal.<br></il>
-    <il>Feedback Visual: Efeitos de houver em botões , mensagens de erro/sucesso no formuário.<br></il>
+    <li>Paleta de cores: Utilização de cores harmônicas, como tons pastéis, para manter uma identidade visual delicada e acolhedora.<br></li>
+    <li>Tipografia: Fontes amigáveis, legíveis e que remetam ao tema artesanal.<br></li>
+    <li>Feedback Visual: Efeitos de houver em botões , mensagens de erro/sucesso no formuário.<br></li>
    
   </ul>
 </ol>
