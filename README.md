@@ -69,38 +69,6 @@ criado. </p>
    
   </ul>
 </ol>
-1.Pagina inicial:
-    • Cabeçalho:inclui o logo da ByMina 
-    • Banner com uma imagem de destaque dos doces artesanias, slogan ou mensagem principal que represente a confeitaria
-    • Galeria de produtos: Destaque dos principais produtos com imagens títulos e breves descrições
-    • Rodapé:Informações de contato, links de redes socias e horario de funcionamento 
-    • Botão para página de "Cadastro"
-    • Botão para página de "Login"
-    • Botão página "Sobre nós"
-
-2.Página de cadastro
-    • Formuláro de Registro com campos para:
-    • Nome completo
-    • E-mail
-    • Senha(com confirmação de senha)
-    • Mensagem de boas-vindas ou de confirmação de cadastro após ser enviado
-
-3.Página de login
-    • Formuláro de Login com campos para:
-    • E-mail
-    • Senha
-    • Botão "Entrar"
-    • Link para redirecionamento paa página de cadastro ("Não possui conta? Cadastre-se aqui!")
-
-4.Página "Sobre Nós"
-    • Informações de contato com endereço, telefone, e-mail e mapa de localização.
-    • Redes socias com ícones clicáveis.
-
-Aspectos de Design(CSS)
-    • Paleta de cores: Utilização de cores harmônicas, como tons pastéis, para manter uma identidade visual delicada e acolhedora.
-    • Tipografia: Fontes amigáveis, legíveis e que remetam ao tema artesanal.
-    • Feedback Visual: Efeitos de houver em botões , mensagens de erro/sucesso no formuário.
-      
 
 
 
