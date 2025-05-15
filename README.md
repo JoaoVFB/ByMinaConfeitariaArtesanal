@@ -2,11 +2,11 @@
 
 <h2>Tópicos</h2>
 <ul>
-  <li><a href="https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal/blob/main/README.md#integrantes-da-equipe-">Integrantes da equipa</a>
+  <li><a href="https://github.com/equipeFront/byMinaConfeitariaArtesanal?tab=readme-ov-file#integrantes-da-equipe-">Integrantes da equipe</a>
     </li>
-  <li><a href="https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal/blob/main/README.md#institui%C3%A7%C3%A3o-comercial-atendida">Institução atendida</a></li>
-  <li><a href="https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal/blob/main/README.md#descri%C3%A7%C3%A3o-do-projeto">Descrição do projeto</a></li>
-  <li><a href="https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal/blob/main/README.md#estrutura-do-site">Estrutura do projeto</a></li>
+  <li><a href="https://github.com/equipeFront/byMinaConfeitariaArtesanal?tab=readme-ov-file#institui%C3%A7%C3%A3o-comercial-atendida">Instituição atendida</a></li>
+  <li><a href="https://github.com/equipeFront/byMinaConfeitariaArtesanal?tab=readme-ov-file#descri%C3%A7%C3%A3o-do-projeto">Descrição do projeto</a></li>
+  <li><a href="https://github.com/equipeFront/byMinaConfeitariaArtesanal?tab=readme-ov-file#estrutura-do-site">Estrutura do projeto</a></li>
 </ul>
 
 <h2>Integrantes da Equipe </h2>
@@ -14,8 +14,8 @@
 <thead>
   <tr>
     <th align="center"><a href="https://github.com/JoaoVFB"><img     src="https://i.ibb.co/rHmQwYP/IMG-20240525-122603958-HDR.jpg" width="110" style="max-width: 100%;"><br><sub>João Vitor Furquim</sub></a></th>
-    <th align="center"><a href=""><img     src="https://i.ibb.co/y0Ydhjd/foto-Pedro.jpg" alt="foto-Pedro" width="110"  style="max-width: 100%;"><br><sub>Pedro Henrique Silva Melo</sub></a></th>
-    <th align="center"><a href=""><img src="" width="110" alt="foto Danilo" style="max-width: 100%;"><br><sub>Danilo Augusto</sub></a></th>
+    <th align="center"><a href="https://github.com/Pedro-Meloo"><img     src="https://i.ibb.co/y0Ydhjd/foto-Pedro.jpg" alt="foto-Pedro" width="110"  style="max-width: 100%;"><br><sub>Pedro Henrique Silva Melo</sub></a></th>
+    <th align="center"><a href="https://github.com/DaniloFrazon"><img src="https://i.ibb.co/8P0574B/Whats-App-Image-2024-11-21-at-21-04-00.jpg" alt="Whats-App-Image-2024-11-21-at-21-04-00" width="100"><br><sub>Danilo Augusto</sub></a></th>
     </tr>
 </thead>
 </table></markdown-accessiblity-table>
@@ -75,6 +75,3 @@ criado. </p>
    
   </ul>
 </ol>
-
-
-
