@@ -1,0 +1,346 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f3f1;
+    background-image: linear-gradient(#fff, #b98783 );
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    line-height: 1.6;
+    min-height: 100vh;
+
+}
+
+main {
+    flex: 1; 
+}
+    
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Cabeçalho */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #d2a5a1;
+}
+
+header .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+nav a {
+    margin: 0 15px;
+    font-size: 1rem;
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+nav a:hover,
+nav a.active {
+    background-color: #b98783;
+}
+
+/* Home */
+.home {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.logo-section {
+    margin-bottom: 30px;
+}
+
+.logo-home {
+    max-width: 250px;
+    border-radius: 15px;
+}
+
+.home h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #6c5957;
+}
+
+.foto-estabelecimento {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.foto-home {
+    max-width: 60%;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border: 5px solid #d2a5a1;
+}
+
+h2 {
+    margin-top: 30px;
+    font-size: 2rem;
+    color: #6c5957;
+}
+
+/* Doces */
+.doces {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.doce {
+	background: #fff;
+	padding: 20px;
+	border-radius: 10px;
+	text-align: center;
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	
+}
+.doce:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+.doce img {
+	align-items: stretch;
+	max-width: 150px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+	max-height: 150px;
+}
+
+.doce h3 {
+    font-size: 1.2rem;
+    color: #6c5957;
+    margin-bottom: 10px;
+}
+
+.doce p {
+    color: #666;
+    font-size: 0.9rem;
+}
+
+/* Contato e Cadastro */
+.contato {
+    padding: 50px 20px;
+    justify-content: center;
+    text-align: center;
+}
+.cadastro {
+    padding: 50px 20px;
+    justify-content: center;
+    text-align: center;
+}
+form {
+    max-width: 600px;
+    margin: 0 auto;
+    margin-bottom: 200px;
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+form label {
+    text-align: left;
+    display: block;
+    font-size: 1rem;
+    margin-bottom: 8px;
+    color: #555;
+}
+
+form input,
+form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+    color: #333;
+}
+
+form textarea {
+    resize: vertical;
+    height: 150px;
+}
+
+form button {
+    background-color: #b98783;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+form button:hover {
+    background-color: #a0786a;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #b98783;
+}
+
+/* Login */
+.login {
+    padding: 50px 20px;
+    justify-content: center;
+    text-align: center;
+}
+
+.login h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #b98783;
+}
+
+/* Rodapé */
+footer {
+    font-family: "Inter", sans-serif;
+    text-align: center;
+    background-color: #d2a5a1;
+    padding: 20px;
+    color: white;
+    width: 100%;
+    bottom: 0;
+}
+
+
+.redes-sociais{
+    margin: 20px;
+}
+
+.redes-sociais i{
+    font-size: 28px;
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 50%;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.redes-sociais i:hover{
+    background-color: #fff;
+    color: #b98783;
+}
+
+footer a:hover{
+    color: #b98683;   
+}
+
+
+/* Estilo da seção "Sobre Nós" */
+.sobre-nos {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #fff;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 80%;
+}
+
+.sobre-nos h1 {
+    font-size: 2.5rem;
+    color: #b98783;
+    margin-bottom: 20px;
+}
+
+.sobre-nos p {
+    font-size: 1.2rem;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+.sobre-nos .info p {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+}
+
+.sobre-nos .info strong {
+    color: #b98783;
+}
+
+.sobre-nos .foto-estabelecimento {
+    margin-top: 30px;
+}
+
+.sobre-nos .foto-estabelecimento h2 {
+    font-size: 2rem;
+    color: #b98783;
+    margin-bottom: 15px;
+}
+
+.sobre-nos .foto-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.sobre-nos .foto-container img {
+    max-width: 50%;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border: 5px solid #d2a5a1;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .sobre-nos {
+        padding: 30px 10px;
+    }
+
+    .sobre-nos h1 {
+        font-size: 2rem;
+    }
+
+    .sobre-nos p {
+        font-size: 1rem;
+    }
+
+    .sobre-nos .foto-container img {
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .doces {
+        grid-template-columns: 1fr;
+    }
+
+    .home h1 {
+        font-size: 2rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .doces {
+        flex-direction: column;
+        gap: 10px;
+    }
+}

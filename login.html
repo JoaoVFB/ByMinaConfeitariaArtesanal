@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - ByMina</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        .p{
+            text-align: left;
+           color: #666;
+           margin-bottom: 25px;;
+        }
+        .a{
+            color: #b98783;
+            
+        }
+        .a:hover{
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">ByMina</div>
+        <nav>
+            <a href="index.html" >Home</a>
+            <a href="contato.html">Contato</a>
+            <a href="cadastro.html">Cadastro</a>
+            <a href="login.html" class="active" >Login</a>
+            <a href="admin.html">Admin</a>
+            <a href="sobre.html" >Sobre Nós</a>
+        </nav>
+    </header>
+    <main>
+        <section class="login">
+            <h1>Faça Login</h1>
+            <form action="index.html" method="get">
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" placeholder="Seu e-mail" required>
+                
+                <label for="senha">Senha:</label>
+                <input type="password" id="senha" name="senha" placeholder="Sua senha" required>
+                
+                <p class="p">Não possui cadastro ainda? <a href="cadastro.html" class="a">Casdastre-se aqui!</a></p>
+
+                <button type="submit" class="btn">Entrar</button>
+            </form>
+        </section>
+        
+    </main>
+    <footer>
+        <div class = "redes-sociais">
+            <a href="https://www.instagram.com/bymina_confeitariaartesanal/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+            <a href="https://api.whatsapp.com/send/?phone=5543991481158&text&type=phone_number&app_absent=0" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
+        </div>
+
+        <p>&copy; 2024 ByMina - Confeitaria Artesanal. Todos os direitos reservados. </p> 
+        <p>Desenvolvido por: <a href="https://joaovfb.github.io/Curriculo-Vitae/" target="_blank"> João Furquim</a>, <a href="https://pedro-meloo.github.io/-CurriculumVitae/" target="_blank">Pedro Melo</a> e <a href="https://danilofrazon.github.io/CurriculumVitae/" target="_blank">Danilo Frazon</a></p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin - Gerenciar Usuários</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+    <style>
+        #form-section{
+            padding-top: 40px;
+            text-align: center;
+        }
+        #user-form{
+            margin-bottom: 50px;
+        }
+        #list-section{
+            margin-bottom: 40px;
+            padding: 10px 40px;
+        }
+        #list-user{
+            margin: 0 auto;
+            margin-bottom: 200px;
+            padding: 10px 40px;
+            padding-bottom: 40px;
+            background-color: #fff;
+            border-radius: 10px;
+
+        }
+        #list-user input{            
+            width: 75%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 1rem;
+            
+            color: #333;
+        }  
+        #list-user button {
+            background-color: #b98783;
+            color: white;
+            padding: 10px 20px;
+            font-size: 1rem;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            
+            transition: background-color 0.3s ease;
+        }     
+        #list-user button:hover {
+            background-color: #a0786a;
+        } 
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">ByMina</div>
+        <nav>
+            <a href="index.html" >Home</a>
+            <a href="contato.html">Contato</a>
+            <a href="cadastro.html">Cadastro</a>
+            <a href="login.html">Login</a>
+            <a href="admin.html" class="active">Admin</a>
+            <a href="sobre.html" >Sobre Nós</a>
+        </nav>
+    </header>
+    <main>
+        <!-- Formulário para cadastrar usuários -->
+        <section id="form-section">
+            <h1>Cadastrar Usuário</h1>
+            <form id="user-form">
+                <label for="name">Nome do Usuário:</label>
+                <input type="text" id="name" placeholder="Digite o nome" required>
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" placeholder="Digite o e-mail" required>
+                <button type="submit">Cadastrar</button>
+                <button type="button" id="clear-fields">Limpar Campos</button>
+            </form>
+        </section>
+
+        <!-- Lista de usuários -->
+        <section id="list-section">
+            <div id="list-user">
+                <h1>Lista de Usuários</h1>
+                <input type="text" id="search" placeholder="Pesquisar por nome ou e-mail">
+                <button id="clear-list">Limpar Lista</button>
+                <ul id="user-list"></ul>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class = "redes-sociais">
+            <a href="https://www.instagram.com/bymina_confeitariaartesanal/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+            <a href="https://api.whatsapp.com/send/?phone=5543991481158&text&type=phone_number&app_absent=0" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
+        </div>
+
+        <p>&copy; 2024 ByMina - Confeitaria Artesanal. Todos os direitos reservados. </p> 
+        <p>Desenvolvido por: <a href="https://joaovfb.github.io/Curriculo-Vitae/" target="_blank"> João Furquim</a>, <a href="https://pedro-meloo.github.io/-CurriculumVitae/" target="_blank">Pedro Melo</a> e <a href="https://danilofrazon.github.io/CurriculumVitae/" target="_blank">Danilo Frazon</a></p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
