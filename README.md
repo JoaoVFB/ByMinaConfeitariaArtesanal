@@ -30,7 +30,7 @@
 confeitaria atesanal  com foco em qualidade e exclusividade. O site será responsivo, proporcionando uma experiência de
 navegação agradável tanto em dispositivos  móveis quanto em desktops. Esse projeto busca criar uma presença digital forte
 para a confeitaria artesanal "ByMina", conectando clientes ao mundo do doce artesanal e destacando o carinho presente em cada um dos doces 
-criado. </p>
+criados. </p>
 
 <h2>Estrutura do site</h2>
 <ol >
