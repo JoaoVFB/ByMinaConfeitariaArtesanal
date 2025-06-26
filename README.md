@@ -76,3 +76,4 @@ criados. </p>
   </ul>
 </ol>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoVFB&repo=ByMinaConfeitariaArtesanal&theme=holi)](https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal)
