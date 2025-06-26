@@ -1,7 +1,6 @@
 # Projeto Web - ByMinaConfeitariaArtesanal
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoVFB&repo=JoaoVFB/ByMinaConfeitariaArtesanal)](https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal)
 <h2>Tópicos</h2>
-https://github.com/JoaoVFB/ByMinaConfeitariaArtesanal/tree/main
+
 <ul>
   <li><a href="https://github.com/equipeFront/byMinaConfeitariaArtesanal?tab=readme-ov-file#integrantes-da-equipe-">Integrantes da equipe</a>
     </li>
